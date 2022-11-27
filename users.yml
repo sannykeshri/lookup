@@ -1,0 +1,16 @@
+---
+myusers: 
+     - name: user4
+       uid: 1011
+       middle: middle11
+       last: last11 
+
+     - name: user5
+       uid: 1024
+       middle: middle2
+       last: last5
+ 
+     - name: user6
+       uid: 1036
+       middle: middle3
+       last: last7
